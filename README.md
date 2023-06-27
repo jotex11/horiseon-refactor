@@ -9,4 +9,7 @@
 * Added alt titles to every image
 *Removed classes in the html file to make CSS less complicated, and put things into sections.
 
-URL of application: 
+## Links
+URL of application: https://jotex11.github.io/horiseon-refactor/
+
+URL of github repo: https://github.com/jotex11/horiseon-refactor 
